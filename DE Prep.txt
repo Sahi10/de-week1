@@ -1,0 +1,6 @@
+Rules for practising
+1. Build first. Write the code before you search anything. When you get stuck, note what broke, then look it up.
+2. Standard library only for L1–L3, unless a question says otherwise. Pandas is allowed only where it is named.
+3. Every solution goes in one Git repo called de-week1, one commit per question, message py: Q07 dedupe by latest timestamp. You practise Git all week this way.
+4. For every Python answer, write at least one assert or pytest test with an edge case: an empty file, a null value, a duplicate or a bad date.
+5. After solving, answer the Interviewer follow-up out loud in 60 seconds. That is how the question gets asked in a real interview.
